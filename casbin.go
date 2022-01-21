@@ -3,8 +3,9 @@ package casbin
 import (
 	"context"
 	"fmt"
-	"github.com/casbin/casbin/v2"
 	"log"
+
+	"github.com/casbin/casbin/v2"
 
 	"github.com/go-kratos/kratos/v2/middleware"
 )
